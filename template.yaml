@@ -25,12 +25,12 @@ Parameters:
   UserEmail:
     Type: String
     Description: 'email address'
-    Default: 'no1emailname@gmail.com'
+    Default: 'email'
 
   UserPassword:
     Type: String
     Description: 'Application password'
-    Default: 'fycf pvil rgcj wqez'
+    Default: 'password'
 
 Resources:
   MyDatabase:
